@@ -72,3 +72,11 @@ PluginsIntermediate
 
 # Cache files for the editor to use
 DerivedDataCache
+
+# Project specific ignores
+
+Content/PhotoR_Backgrounds/Meshes/
+Content/PhotoR_Backgrounds/Textures/
+Content/PhotoR_Backgrounds/Materials/
+Content/PhotoR_Backgrounds/Maps/
+./PhotoR_Backgrounds.png
